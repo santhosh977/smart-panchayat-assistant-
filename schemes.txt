@@ -1,0 +1,29 @@
+Rythu Bharosa Scheme:
+Provides financial support to farmers in Andhra Pradesh.
+Eligibility: Farmers with agricultural land.
+Documents: Aadhaar card, land documents, bank account.
+Application: Apply through village secretariat.
+
+PM Kisan Scheme:
+Provides ₹6000 per year to farmers.
+Eligibility: Small and marginal farmers.
+Documents: Aadhaar card, bank account, land records.
+Application: Apply online or through agriculture office.
+
+Ayushman Bharat:
+Provides free health insurance up to ₹5 lakh.
+Eligibility: Economically weaker families.
+Documents: Aadhaar card, ration card.
+Application: Register at empaneled hospitals.
+ 
+MGNREGA:
+Provides 100 days of wage employment for rural households.
+Eligibility: Rural adults.
+Documents: Aadhaar card and job card.
+Application: Apply at panchayat office.
+
+YSR Aarogyasri Scheme:
+Provides free medical treatment for poor families in Andhra Pradesh.
+Eligibility: Families below poverty line.
+Documents: Aadhaar card, ration card.
+Application: Apply through government hospitals.
